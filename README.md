@@ -7,7 +7,7 @@ npm start
 ```
 
 # 下载安装包(windows x64)
-<a href="https://github.com/lishengguo/mk-demo-helloworld/tree/master/release.exe">release.exe</a>
+<a href="https://github.com/lishengguo/mk-demo-helloworld/raw/master/release.exe">release.exe</a>
 
 # 命令行创建hello world网站
 
