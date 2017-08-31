@@ -6,9 +6,6 @@ npm install
 npm start
 ```
 
-# 下载安装包(windows x64)
-<a href="https://github.com/lishengguo/mk-demo-helloworld/raw/master/release.exe">release.exe</a>
-
 # 命令行创建hello world网站
 
 ## 1、安装mk-tools命令行工具
