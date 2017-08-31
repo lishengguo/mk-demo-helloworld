@@ -1,3 +1,3 @@
 echo please install node at first.
-echo ÇëÏÈ°²×°node.
+echo è¯·å…ˆå®‰è£…node.
 node webserver.js
